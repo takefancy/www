@@ -1,0 +1,26 @@
+name: Fancy Check-in
+slogan: 
+title: 
+description: 
+url: 
+images:
+fb_app_id: 
+fb_admins: 
+fb_page: 
+youtube_channel: 
+phone:
+address: 
+
+assets:
+  css:
+    - css/bootstrap.css
+    - css/animate.css
+    - css/material-design-iconic-font.css
+    - css/keyboard.css
+    - css/site.css
+  js:
+    - js/jquery.js
+    - js/keyboard.js
+    - js/particles.js
+    - js/mask.js
+    - js/site.js
